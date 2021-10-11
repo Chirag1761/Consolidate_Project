@@ -1,0 +1,1 @@
+This project's main motive is to provide students a "everything at one place" platform(website) which will contain Notes,Syllabus,Event Reminder,Students Suggestion/Recommendation(Using Blog Section),Videos related to particular Skills,..etc  
